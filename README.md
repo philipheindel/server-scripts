@@ -2,4 +2,7 @@
 
 This is just a collection of shell scripts to make setting up new servers a bit easier on me.
 
-The plan is to create scripts for setting up a DST server, and maybe other servers in the future.
+- [x] Webmin installation script for x86 Debian-based system
+- [ ] Webmin installation script for Raspbian
+- [ ] DST Dedicated Server setup script
+- [ ] Generic service creation script
